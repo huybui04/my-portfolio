@@ -1,1 +1,1 @@
-This portfolio shows my main projects.
+This is my portfolio project.
